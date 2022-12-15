@@ -1,16 +1,16 @@
 # Calculator App
 
-A new Flutter project.
+  A Simple Calculator app made in flutter.
+  
+  ### Supports functionality
+  - Basic calculations
+  - List of 10 recent calculations
+  - Light and Dark Mode
+ 
+App Link [Click here to get the download link](https://drive.google.com/file/d/1BQ87FKqfo7N9SRFCn_IfE0uV-w3alu6d/view?usp=share_link) 
 
-## Getting Started
+# Screen Shots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Mohit-Joshi-dev/calculator_app/blob/master/screenshot/Screenshot_1.png" alt="drawing" width="200"/> .
+<img src="https://github.com/Mohit-Joshi-dev/calculator_app/blob/master/screenshot/Screenshot_2.png" alt="drawing" width="200"/> .
+<img src="https://github.com/Mohit-Joshi-dev/calculator_app/blob/master/screenshot/Screenshot_3.png" alt="drawing" width="200"/> .
